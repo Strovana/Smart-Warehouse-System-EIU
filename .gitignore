@@ -4,7 +4,7 @@ gdino_checkpoints/
 *.pt
 *.pth
 *.tar
-*.zip
+Professor Y.zip
 *.ckpt
 *.engine
 *.onnx
